@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
+import '../models/task.dart';
 import '../providers/auth_provider.dart';
 import '../providers/group_provider.dart';
 import '../providers/task_provider.dart';
